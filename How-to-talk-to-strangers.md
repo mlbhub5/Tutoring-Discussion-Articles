@@ -1,4 +1,3 @@
-<font face="Times New Roman" size=20 color=#0099ff>
 Interacting with strangers can be daunting, but it’s a rewarding way to explore the world of people you 
 don’t know. These expeditions provide a structure and a contrivance to help you hone your social skills and 
 solve mechanical problems. Each gives you a reason to talk to a stranger. You can do them alone or with a
@@ -37,4 +36,3 @@ note of their response, their willingness to engage, and how the conversation de
 Remember to be respectful and pay attention to cultural differences in expectations of eye contact and 
 street behavior. These expeditions may not all make sense in the place where you are. It’s important to keep
 context in mind and be aware of your own conduct.
-</font>
