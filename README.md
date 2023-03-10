@@ -1,9 +1,9 @@
-##Interacting with strangers can be daunting, but it’s a rewarding way to explore the world of people you 
+## Interacting with strangers can be daunting, but it’s a rewarding way to explore the world of people you 
 don’t know. These expeditions provide a structure and a contrivance to help you hone your social skills and 
 solve mechanical problems. Each gives you a reason to talk to a stranger. You can do them alone or with a
 partner. They can be done in one day or spread out over months. 
  
-##The guiding principle of these expeditions is respect for others, and every explorer should pay careful 
+## The guiding principle of these expeditions is respect for others, and every explorer should pay careful 
 attention to their own conduct. The expeditions are presented in order of increasing challenge, starting with a 
 warm-up to help you slow down your pace and sharpen your awareness. 
  
