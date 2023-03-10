@@ -1,4 +1,4 @@
-<font face="Lucida Grande" size=14 color=#0099ff>
+<font face="Times New Roman" size=16 color=#0099ff>
 Interacting with strangers can be daunting, but it’s a rewarding way to explore the world of people you 
 don’t know. These expeditions provide a structure and a contrivance to help you hone your social skills and 
 solve mechanical problems. Each gives you a reason to talk to a stranger. You can do them alone or with a
