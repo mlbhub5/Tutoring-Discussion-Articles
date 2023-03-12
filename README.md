@@ -1,16 +1,21 @@
-# [Original Article -How to talk to strangers ](https://ideas.ted.com/how-to-talk-to-strangers/)
-### Interacting with strangers can be `daunting`, but it's a rewarding way to explore the world of people you don’t know. These `expeditions` provide a structure and a `contrivance` to help you `hone` your social skills and solve mechanical problems. Each gives you a reason to talk to a stranger. You can do them alone or with a partner. They can be done in one day or spread out over months.
+# [Original Article - 5 ways to show you can lead — even when you don’t have a leadership role ](https://ideas.ted.com/5-unofficial-ways-to-show-leadership/)
 
-### The guiding principle of these expeditions is respect for others, and every explorer should pay careful attention to their own `conduct`. The expeditions are presented in order of increasing challenge, starting with a warm-up to help you slow down your pace and sharpen your awareness.
+### Demonstrating leadership skills in the workplace is crucial for anyone looking to advance in their career. However, it can be difficult to showcase these skills when you don't have an official leadership role. Here are five ways to demonstrate leadership in the workplace and make the case for why you're the leader your organization needs.
 
-### The first expedition is called "Watch and Learn." Spend an hour in a public place, ideally where you won't encounter people you know. Sit still, turn off your devices, and observe people. Describe the `setting`, the most interesting features, and the people. Take note of their appearance, what they do, and how they interact with others. Invent backstories for people if you like, but make sure your assumptions are based on details you've observed.
+### Take Responsibility: Taking initiative and volunteering for tasks that align with your skill set is an excellent way to demonstrate leadership. Great leaders take ownership of problems and work to find solutions rather than shifting the blame.
 
-### The second expedition is "Say Hello." Take a walk in a `populous` place and define a territory for yourself. Say hello to every person you pass by and try to look them in the eye. Don't worry if they don't hear you or ignore you. On the second round, mix in `phatic` observations, like "Cute dog," "I like your hat," or "Cold out today!" Keep a keen awareness of the dynamics of each micro-interaction. How do people respond? Are they uncomfortable? Do they smile or laugh?
+### Include Others: Leaders who prioritize the success of their team over individual success are highly valued by organizations. By involving others in meetings and key decisions, you can demonstrate your commitment to the team's success. Collaborating with diverse sets of experiences and skill sets can also benefit you by building relationships with potential future team members.
 
-### The third expedition is "Get Lost." Ask someone for directions and continue to ask for increasingly complex instructions, like finding a specific restaurant or shop. With each request, take note of the person's response, their willingness to help, and how they engage with you. Keep your smartphone `tucked away` and rely on your memory and note-taking skills.
+### Speak Up: Don't be afraid to share your ideas and champion them in meetings. You don't have to be the loudest person in the room, but it's important to get your ideas out there. If you're having trouble being heard during group meetings, consider speaking with individuals privately to share your ideas.
 
-### The fourth expedition is "Compliment and Question." Approach a stranger and give them a genuine compliment. Then ask them a question related to the compliment or something they're wearing or doing. Keep the conversation going for a few minutes and take note of how they respond. Are they open to the interaction? Do they seem `guarded` or uncomfortable?
+### Ask Questions: Asking intelligent questions during team meetings or conversations with colleagues demonstrates your dedication and enthusiasm for the team's success. It shows that you're thinking critically about the project and can offer suggestions for improvement.
 
-### The fifth and final expedition is "Share a Meal." Go to a restaurant or cafe and sit at the `communal` table. `Strike up` a conversation with the person next to you and see if they're interested in sharing a meal. Take note of their response, their willingness to engage, and how the conversation develops.
+### Deliver: Finally, always deliver what you promise. High performers who consistently deliver quality work are often fast-tracked for leadership roles. While it's important to prioritize team success, failing to meet your assigned tasks can quickly derail your progress.
 
-### Remember to be respectful and pay attention to cultural differences in expectations of eye contact and street behavior. These expeditions may not all make sense in the place where you are. It's important to keep context in mind and be aware of your own conduct.
+### In addition to demonstrating leadership in the workplace, these activities can also help you develop new skills and effectively create your own leadership development program. By following these five steps, you can become a leader even before being given an official title.
+
+1. Can anyone be a leader, or are there certain qualities that some people possess that make them better suited for leadership roles?
+2. What are some ways to demonstrate leadership at work when you don't have a formal leadership position?
+3. Why do you think it's important to take responsibility for your contributions, even when projects don't go as planned?
+4. How can including other people in meetings and key decisions help demonstrate your leadership skills?
+5. Why is it important to always deliver what you promise, and how can failing to do so affect your chances of being considered for leadership roles?
