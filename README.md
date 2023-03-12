@@ -2,7 +2,7 @@
 
 ### Demonstrating leadership skills in the workplace is crucial for anyone looking to advance in their career. However, it can be difficult to showcase these skills when you don't have an official leadership role. Here are five ways to demonstrate leadership in the workplace and make the case for why you're the leader your organization needs.
 
-### - Take Responsibility: Taking initiative and volunteering for tasks that align with your skill set is an excellent way to demonstrate leadership. Great leaders take ownership of problems and work to find solutions rather than shifting the blame.
+-``### Take Responsibility: Taking initiative and volunteering for tasks that align with your skill set is an excellent way to demonstrate leadership. Great leaders take ownership of problems and work to find solutions rather than shifting the blame.
 
 ### - Include Others: Leaders who prioritize the success of their team over individual success are highly valued by organizations. By involving others in meetings and key decisions, you can demonstrate your commitment to the team's success. Collaborating with diverse sets of experiences and skill sets can also benefit you by building relationships with potential future team members.
 
