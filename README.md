@@ -22,3 +22,8 @@
 3. Why do you think it's important to take responsibility for your contributions, even when projects don't go as planned?
 4. How can including other people in meetings and key decisions help demonstrate your leadership skills?
 5. Why is it important to always deliver what you promise, and how can failing to do so affect your chances of being considered for leadership roles?
+6. Which of the five ways to demonstrate leadership do you think is the most important, and why?
+7. Have you ever been in a situation where you demonstrated leadership without having a formal leadership role? Can you share your experience?
+8. How do you think companies can identify potential leaders who have not held a leadership position before?
+9. What are some challenges that people without a leadership role might face when trying to demonstrate leadership at work?
+10. How can you balance being a team player and demonstrating leadership at work?
