@@ -14,6 +14,9 @@
 
 ### In addition to demonstrating leadership in the workplace, these activities can also help you develop new skills and effectively create your own leadership development program. By following these five steps, you can become a leader even before being given an official title.
 
+
+## Discussion
+
 1. Can anyone be a leader, or are there certain qualities that some people possess that make them better suited for leadership roles?
 2. What are some ways to demonstrate leadership at work when you don't have a formal leadership position?
 3. Why do you think it's important to take responsibility for your contributions, even when projects don't go as planned?
