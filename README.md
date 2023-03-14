@@ -10,13 +10,13 @@
 ### In conclusion, critical thinking is a vital skill for success in the workplace, and training in this area is becoming increasingly important for organizations. By understanding cognitive biases, open thinking, information flow, visual intelligence, and decision-making, employees can develop their critical thinking skills and make better decisions.
 
 ## Discussion
-1.What is your understanding of critical thinking? How important do you think it is in the workplace?
-2.How can cognitive biases such as confirmation bias and sunk cost fallacy affect decision-making in the workplace? Can you give an example?
-3.How can open thinking contribute to better decision-making and problem-solving in the workplace?
-4.How can leaders foster an environment where critical thinking thrives and information flows freely?
-5.What role does visual intelligence play in critical thinking? Can you give an example of how it can be useful in the workplace?
-6.What are some challenges that employees may face when developing critical thinking skills, and how can these be addressed?
-7.How can decision-making be taught as part of critical thinking training? What are some methods or approaches that can be used?
-8.Do you think critical thinking is a skill that can be taught or is it something that people are born with? Why?
-9.How can critical thinking contribute to innovation and creativity in the workplace?
-10.How can critical thinking be applied to everyday work tasks, such as problem-solving and decision-making? Can you give an example?
+1. What is your understanding of critical thinking? How important do you think it is in the workplace?
+2. How can cognitive biases such as confirmation bias and sunk cost fallacy affect decision-making in the workplace? Can you give an example?
+3. How can open thinking contribute to better decision-making and problem-solving in the workplace?
+4. How can leaders foster an environment where critical thinking thrives and information flows freely?
+5. What role does visual intelligence play in critical thinking? Can you give an example of how it can be useful in the workplace?
+6. What are some challenges that employees may face when developing critical thinking skills, and how can these be addressed?
+7. How can decision-making be taught as part of critical thinking training? What are some methods or approaches that can be used?
+8. Do you think critical thinking is a skill that can be taught or is it something that people are born with? Why?
+9. How can critical thinking contribute to innovation and creativity in the workplace?
+10. How can critical thinking be applied to everyday work tasks, such as problem-solving and decision-making? Can you give an example?
