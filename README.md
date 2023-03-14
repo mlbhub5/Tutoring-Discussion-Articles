@@ -1,29 +1,22 @@
-# [Original Article - 5 ways to show you can lead — even when you don’t have a leadership role ](https://ideas.ted.com/5-unofficial-ways-to-show-leadership/)
----
-### Demonstrating leadership skills in the workplace is crucial for anyone looking to advance in their career. However, it can be difficult to showcase these skills when you don't have an official leadership role. Here are five ways to demonstrate leadership in the workplace and make the case for why you're the leader your organization needs.
+# [Original Article - Critical thinking training: 5 key lessons for employees ](https://bigthink.com/plus/critical-thinking-training/)
+### Critical thinking is ranked as one of the most important skills for success in the workplace, yet only 39% of employers agree that recent college graduates are well-prepared in this area. Consequently, learning and development leaders are increasingly seeking ways to develop critical thinking skills in the workplace. Specific skills addressed in critical thinking training include gathering relevant data, analyzing, interpreting, and evaluating data, understanding patterns and connecting ideas, thinking creatively, self-reflection, self-regulation, open-mindedness, identifying assumptions and biases, identifying and evaluating alternative courses of action, anticipating possible outcomes, testing hypotheses, and making data-based decisions. While some people may have a natural inclination towards critical thinking, others can benefit greatly from training in this area.
 
-### Take Responsibility: Taking initiative and volunteering for tasks that align with your skill set is an excellent way to demonstrate leadership. Great leaders take ownership of problems and work to find solutions rather than shifting the blame.
+### To develop critical thinking skills in employees, it is important to be aware of cognitive biases such as confirmation bias, which is the tendency to overvalue evidence that confirms one’s existing beliefs, and the sunk cost fallacy, which is the act of making decisions based on previously invested resources rather than desired outcomes for the future. Open thinking is another useful concept to understand, and this involves a cyclical process that includes creative thinking, critical thinking, and applied thinking. In this model, new ideas are generated during the creative thinking phase, evaluated during critical thinking, and operationalized during applied thinking. This cycle can be repeated as many times as necessary to improve outcomes.
 
-### - Include Others: Leaders who prioritize the success of their team over individual success are highly valued by organizations. By involving others in meetings and key decisions, you can demonstrate your commitment to the team's success. Collaborating with diverse sets of experiences and skill sets can also benefit you by building relationships with potential future team members.
+### Information must flow freely throughout the organization for critical thinking to thrive, and leaders should no longer act as gatekeepers of information. They should instead provide suggestions for how to best make use of the information that is distributed throughout the organization. It is also important to develop visual intelligence as this enables people to assess, analyze, articulate, and adapt to visual information in their environment. Conscious observation and information extraction are the first steps, followed by analysis of the information, articulating observations, and making a purposeful decision based on this information.
 
-### - Speak Up: Don't be afraid to share your ideas and champion them in meetings. You don't have to be the loudest person in the room, but it's important to get your ideas out there. If you're having trouble being heard during group meetings, consider speaking with individuals privately to share your ideas.
+### Finally, it is wise to provide instruction on decision-making as part of critical thinking training, particularly for new employees. Lawrence Summers applies a scientific method to making complex decisions that involves identifying and framing the problem, gathering data, analyzing the data, developing alternatives, selecting the best alternative, and implementing the decision. By being analytical in their decision-making, employees can choose the best course of action.
 
-### - Ask Questions: Asking intelligent questions during team meetings or conversations with colleagues demonstrates your dedication and enthusiasm for the team's success. It shows that you're thinking critically about the project and can offer suggestions for improvement.
-
-### - Deliver: Finally, always deliver what you promise. High performers who consistently deliver quality work are often fast-tracked for leadership roles. While it's important to prioritize team success, failing to meet your assigned tasks can quickly derail your progress.
-
-### In addition to demonstrating leadership in the workplace, these activities can also help you develop new skills and effectively create your own leadership development program. By following these five steps, you can become a leader even before being given an official title.
-
+### In conclusion, critical thinking is a vital skill for success in the workplace, and training in this area is becoming increasingly important for organizations. By understanding cognitive biases, open thinking, information flow, visual intelligence, and decision-making, employees can develop their critical thinking skills and make better decisions.
 
 ## Discussion
-
-1. Can anyone be a leader, or are there certain qualities that some people possess that make them better suited for leadership roles?
-2. What are some ways to demonstrate leadership at work when you don't have a formal leadership position?
-3. Why do you think it's important to take responsibility for your contributions, even when projects don't go as planned?
-4. How can including other people in meetings and key decisions help demonstrate your leadership skills?
-5. Why is it important to always deliver what you promise, and how can failing to do so affect your chances of being considered for leadership roles?
-6. Which of the five ways to demonstrate leadership do you think is the most important, and why?
-7. Have you ever been in a situation where you demonstrated leadership without having a formal leadership role? Can you share your experience?
-8. How do you think companies can identify potential leaders who have not held a leadership position before?
-9. What are some challenges that people without a leadership role might face when trying to demonstrate leadership at work?
-10. How can you balance being a team player and demonstrating leadership at work?
+1.What is your understanding of critical thinking? How important do you think it is in the workplace?
+2.How can cognitive biases such as confirmation bias and sunk cost fallacy affect decision-making in the workplace? Can you give an example?
+3.How can open thinking contribute to better decision-making and problem-solving in the workplace?
+4.How can leaders foster an environment where critical thinking thrives and information flows freely?
+5.What role does visual intelligence play in critical thinking? Can you give an example of how it can be useful in the workplace?
+6.What are some challenges that employees may face when developing critical thinking skills, and how can these be addressed?
+7.How can decision-making be taught as part of critical thinking training? What are some methods or approaches that can be used?
+8.Do you think critical thinking is a skill that can be taught or is it something that people are born with? Why?
+9.How can critical thinking contribute to innovation and creativity in the workplace?
+10.How can critical thinking be applied to everyday work tasks, such as problem-solving and decision-making? Can you give an example?
